@@ -5,7 +5,10 @@ This script will terminate the x2go sleeping sessions that are old for given num
 # Description of the Killing Sleep Sessions
 
 options:
+
 h     Show help
+
 d     Mention Minimum Number Of Days
+
 
 [For Example: ./script.sh -d 1 ][It will terminate sessions that are 1 or more days old]
